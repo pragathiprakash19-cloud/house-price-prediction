@@ -62,11 +62,11 @@ python -m streamlit run app.py
 
 ## 📷 Screenshots
 - App interface
-  ![App Screenshot]()
+  ![App Screenshot](app.png)
 - Graph output
-  ![graph Screenshot]() 
+  ![graph Screenshot](graph.png) 
 - Prediction result
-  ![Result Screenshot]()
+  ![Result Screenshot](prediction.png)
 
 ---
 
